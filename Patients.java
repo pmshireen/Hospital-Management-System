@@ -14,7 +14,7 @@ import javax.swing.table.*;
 
 /**
  *
- * @author pmmurshidha
+ * @author pmshireen
  */
 public class Patients extends javax.swing.JFrame {
 
@@ -24,7 +24,7 @@ public class Patients extends javax.swing.JFrame {
 
 // Database connection information static variable declaration
 private static final String USERNAME = "root";
-private static final String PWD = "Murshidha";
+private static final String PWD = "mmm";
 private static final String CONSTR = "jdbc:mysql://localhost:3306/hms";
 
 // Connection, Prepared Statement and resultset Objects declaration
